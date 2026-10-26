@@ -1,4 +1,4 @@
-#Hi there, I'm Denis Zbirnea 👋
+# Hi there, I'm Denis Zbirnea 👋
 
 - 🔭 I'm currently working on: personal projects and my studies at ISEP
 - 🌱 I'm currently learning: new technologies and programming skills
